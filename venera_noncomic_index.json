@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Buon Dua",
+    "fileName": "real_person_photo_book/buondua.js",
+    "key": "buondua",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/buondua.js",
+    "description": "真人写真图包；点tag的网盘链接可下完整套图"
+  },
+  {
+    "name": "Cosplay啦",
+    "fileName": "sources-direct/ciyuandao.js",
+    "key": "ciyuandao",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/token1008/venera-cn-64bit@main/sources-direct/ciyuandao.js",
+    "description": "Cosplay图集站，相册=单章"
+  },
+  {
+    "name": "CosplayTele",
+    "fileName": "real_person_photo_book/cosplaytele.js",
+    "key": "cosplaytele",
+    "version": "1.7.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/cosplaytele.js",
+    "description": "Cosplay图包"
+  },
+  {
+    "name": "FoamGirl",
+    "fileName": "real_person_photo_book/foamgirl.js",
+    "key": "foamgirl",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/foamgirl.js",
+    "description": "真人写真图包"
+  },
+  {
+    "name": "4KHD",
+    "fileName": "real_person_photo_book/4khd.js",
+    "key": "fourkhd",
+    "version": "2.0.7",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/4khd.js",
+    "description": "真人写真图包"
+  },
+  {
+    "name": "绅士会所",
+    "fileName": "real_person_photo_book/hentaiclub.js",
+    "key": "hentaiclub",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/hentaiclub.js",
+    "description": "图包站，成人向"
+  },
+  {
+    "name": "JJcos",
+    "fileName": "real_person_photo_book/jjcos.js",
+    "key": "jjcos",
+    "version": "1.3.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/jjcos.js",
+    "description": "Cosplay图包"
+  },
+  {
+    "name": "Kiutaku",
+    "fileName": "real_person_photo_book/kiutaku.js",
+    "key": "kiutaku",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/kiutaku.js",
+    "description": "写真图包；对IP纯净度要求高"
+  },
+  {
+    "name": "Mitaku",
+    "fileName": "real_person_photo_book/mitaku.js",
+    "key": "mitaku",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/mitaku.js",
+    "description": "写真图包"
+  },
+  {
+    "name": "Ososedki",
+    "fileName": "real_person_photo_book/ososedki.js",
+    "key": "ososedki",
+    "version": "1.1.1",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/ososedki.js",
+    "description": "写真图包；Cloudflare验证后需点返回首页才生效"
+  },
+  {
+    "name": "V2PH",
+    "fileName": "real_person_photo_book/v2ph.js",
+    "key": "v2ph",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/v2ph.js",
+    "description": "真人写真图包；不登录限看10张，每天限量10套"
+  },
+  {
+    "name": "Xiutaku",
+    "fileName": "real_person_photo_book/xiutaku.js",
+    "key": "xiutaku",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/meaninglesslyy/venera-config@main/real_person_photo_book/xiutaku.js",
+    "description": "秀人网专区写真"
+  },
+  {
+    "name": "诊断与日志上传",
+    "fileName": "sources-direct/venera_diag.js",
+    "key": "venera_diag",
+    "version": "2.1.2",
+    "url": "https://cdn.jsdelivr.net/gh/token1008/venera-cn-64bit@main/sources-direct/venera_diag.js",
+    "description": "扫描全部源并把失败日志上传到GitHub，需填GitHub Token"
+  }
+]
